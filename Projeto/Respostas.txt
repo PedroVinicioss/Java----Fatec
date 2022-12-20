@@ -1,0 +1,12 @@
+1-A aplicação criada tem como intuito cadastrar clientes,donos de bares e administradores do sistema,
+   inicialmente foi realizado apenas o cadastro de clientes para demonstração do funcionamento.
+
+2-Todas as classes herdam a "EntidadeBase" pois possuem propriedades em comum
+
+3-Existe um método "ValidarEntidade" abstrato na classe base para que todas as suas classes filhas 
+o implementem de acordo com a sua necessidade 
+
+4-O sistema tem um controle de try catch na chamada Main para tratar qualquer exceção no sistema e 
+um tratamento no método de CadastrarUsuario() para tratar o ValidarEntidade() que lança exceções caso a entidade não esteja válida
+
+5-Utilizamos a leitura e gravação para salvar e ler usuários cadastrados, onde é feito o salvamento em formato .json

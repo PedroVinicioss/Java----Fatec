@@ -1,0 +1,238 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Ex20",
+            "request": "launch",
+            "mainClass": "Ex20",
+            "projectName": "Lista 00 - Matrizes_35324044"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex19",
+            "request": "launch",
+            "mainClass": "Ex19",
+            "projectName": "Lista 00 - Matrizes_35324044"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex31",
+            "request": "launch",
+            "mainClass": "Ex31",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex30",
+            "request": "launch",
+            "mainClass": "Ex30",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex29",
+            "request": "launch",
+            "mainClass": "Ex29",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex28",
+            "request": "launch",
+            "mainClass": "Ex28",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex27",
+            "request": "launch",
+            "mainClass": "Ex27",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex25",
+            "request": "launch",
+            "mainClass": "Ex25",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex01",
+            "request": "launch",
+            "mainClass": "Ex01",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex02",
+            "request": "launch",
+            "mainClass": "Ex02",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex03",
+            "request": "launch",
+            "mainClass": "Ex03",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex04",
+            "request": "launch",
+            "mainClass": "Ex04",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex05",
+            "request": "launch",
+            "mainClass": "Ex05",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex06",
+            "request": "launch",
+            "mainClass": "Ex06",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex07",
+            "request": "launch",
+            "mainClass": "Ex07",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex08",
+            "request": "launch",
+            "mainClass": "Ex08",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex09",
+            "request": "launch",
+            "mainClass": "Ex09",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex10",
+            "request": "launch",
+            "mainClass": "Ex10",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex11",
+            "request": "launch",
+            "mainClass": "Ex11",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex12",
+            "request": "launch",
+            "mainClass": "Ex12",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex13",
+            "request": "launch",
+            "mainClass": "Ex13",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex14",
+            "request": "launch",
+            "mainClass": "Ex14",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex15",
+            "request": "launch",
+            "mainClass": "Ex15",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex16",
+            "request": "launch",
+            "mainClass": "Ex16",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex17",
+            "request": "launch",
+            "mainClass": "Ex17",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex18",
+            "request": "launch",
+            "mainClass": "Ex18",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex19",
+            "request": "launch",
+            "mainClass": "Ex19",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex20",
+            "request": "launch",
+            "mainClass": "Ex20",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex21",
+            "request": "launch",
+            "mainClass": "Ex21",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex22",
+            "request": "launch",
+            "mainClass": "Ex22",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex23",
+            "request": "launch",
+            "mainClass": "Ex23",
+            "projectName": "Ex01_227b39f7"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ex24",
+            "request": "launch",
+            "mainClass": "Ex24",
+            "projectName": "Ex01_227b39f7"
+        }
+    ]
+}
